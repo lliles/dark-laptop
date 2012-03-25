@@ -23,12 +23,12 @@
 
 ;;; Installation:
 ;;
-;;   Copy this file to a folder in your emacs config directory such as
+;;   Copy this file to a folder in your Emacs config directory such as
 ;;  "~/.emacs.d/themes" and add it to the theme load path with:
 ;;
 ;;     (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 ;;
-;;   Then load the theme within emacs with:
+;;   Then load the theme within Emacs with:
 ;;
 ;;     M-x load-theme dark-laptop
 
