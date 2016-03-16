@@ -21,7 +21,7 @@ with:
 Or you can place the following in your `init.el` to have it loaded at
 startup:
 
-`(load-theme dark-laptop)`
+`(load-theme 'dark-laptop)`
 
 # Bugs & Improvements #
 
